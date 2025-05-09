@@ -1,3 +1,3 @@
 # Laura Ferreira Claudino
 
-### Olá, eu sou a Laura, e eu sou uma estudante do 2o AMS
+### Oi , esse é o conflito 1
