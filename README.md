@@ -1,3 +1,3 @@
 # Laura Ferreira Claudino
 
-### Oi , esse é o conflito 1
+Será que o conflito resolveu?
